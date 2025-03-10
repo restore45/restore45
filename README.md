@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @restore45
+- 👋 Hi, I’m @mdingi
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning SQL and C#
 - 💞️ I’m looking to collaborate on Database and general codes
